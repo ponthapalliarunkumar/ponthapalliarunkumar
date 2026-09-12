@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ponthapalli Arun Kumar
+<div align="center">
+
+<img src="./assets/profile.png" width="180" style="border-radius: 50%;" alt="Ponthapalli Arun Kumar" />
+
+<h1>Ponthapalli Arun Kumar</h1>
+
 <a href="https://github.com/ponthapalliarunkumar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=E50914&center=true&vCenter=true&width=550&lines=Generative+AI+%26+Python+Developer;ECE+Undergrad+%40+Godavari+Institute;Building+LLM-powered+tools+with+OpenAI+API;Open+to+Gen+AI+%2F+Software+Engineering+roles" alt="Typing SVG" />
 </a>
