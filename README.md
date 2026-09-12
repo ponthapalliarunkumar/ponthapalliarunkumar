@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 <div align="center">
+
 <h1>Ponthapalli Arun Kumar</h1>
 
-<a href="https://github.com/ponthapalliarunkumar">
+<a href="https://github.com/pontapallia">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=E50914&center=true&vCenter=true&width=550&lines=Generative+AI+%26+Python+Developer;ECE+Undergrad+%40+Godavari+Institute;Building+LLM-powered+tools+with+OpenAI+API;Open+to+Gen+AI+%2F+Software+Engineering+roles" alt="Typing SVG" />
 </a>
 
@@ -10,27 +10,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br/>
 
-```
-$ whoami --verbose
-```
-
-```yaml
-Subject:      Ponthapalli Arun Kumar
-Role:         Generative AI & Python Developer | ECE Undergrad
-Origin:       Hyderabad, India
-Education:    B.Tech ECE, Godavari Institute of Engineering & Technology (2026)
-Status:       Building . Learning . Shipping
-ToolChain:    VS Code, Git, GitHub Actions, OpenAI API
-
-Core.Lang:      Python, JavaScript, SQL
-Core.Frontend:  React, HTML, CSS, Tailwind CSS, Vite
-Core.AI:        Generative AI, OpenAI API, Prompt Engineering
-Core.Security:  Nmap, Wireshark, Linux, Networking (VAPT)
-
-Contact.Mail:      pontapallia@gmail.com
-Contact.GitHub:    github.com/pontapallia
-Contact.Portfolio: <your live portfolio link here>
-```
+<div align="center">
+  <img src="./assets/terminal-card.png" width="100%" alt="Ponthapalli Arun Kumar — system info card" />
+</div>
 
 <br/>
 
@@ -63,6 +45,16 @@ Contact.Portfolio: <your live portfolio link here>
 ### `>` Activity Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pontapallia&bg_color=0d1117&color=E50914&line=E50914&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+
+<br/><br/>
+
+### `>` Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pontapallia/pontapallia/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pontapallia/pontapallia/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pontapallia/pontapallia/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
