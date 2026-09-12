@@ -1,4 +1,4 @@
-Hi Show Image My name is Ponthapalli Arun Kumar
+Hi ! Show Image My name is Ponthapalli Arun Kumar
 Generative AI & Python Developer | ECE Undergrad
 
 I'm an Electronics and Communication Engineering graduate from Godavari Institute of Engineering and Technology, with hands-on experience in Python and Generative AI. I've built an AI chatbot and a text summarizer using the OpenAI API, and I designed and deployed my own portfolio site with React, Vite, and GitHub Actions. I completed two Python & AI internships — at Blackbucks and SkillDzire — and I'm TryHackMe certified in Intro to Cyber Security. I'm currently looking for Generative AI or Software Engineering roles where I can keep building practical, AI-driven tools
