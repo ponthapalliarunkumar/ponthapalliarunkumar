@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="./assets/profile.png" width="180" style="border-radius: 50%;" alt="Ponthapalli Arun Kumar" />
 
 <h1>Ponthapalli Arun Kumar</h1>
 
